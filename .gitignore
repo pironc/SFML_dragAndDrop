@@ -1,0 +1,9 @@
+# binary
+drag_drop
+
+# objects
+*.o
+*.gc*
+
+# vscode
+.vscode
